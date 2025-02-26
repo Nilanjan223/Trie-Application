@@ -1,4 +1,4 @@
-## BASIC TRIE 
+## TRIE
 1. Write words in the file 'input.txt' that you want in trie.
 
 2. Each word should in a new line.
@@ -9,7 +9,7 @@
 
 ![IMG1](output.png)
 
-### TRIE WITH WEIGHTS
+### B. WEIGHTED PREFIX TREE
 
 - Add input words and its weight as shown in code.
 

@@ -1,4 +1,5 @@
-## TRIE
+# STEPS
+## A.TRIE
 1. Write words in the file 'input.txt' that you want in trie.
 
 2. Each word should in a new line.

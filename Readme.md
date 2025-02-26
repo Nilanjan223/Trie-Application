@@ -10,7 +10,7 @@
 
 ![IMG1](output.png)
 
-### B. WEIGHTED PREFIX TREE
+## B. WEIGHTED PREFIX TREE
 
 - Add input words and its weight as shown in code.
 

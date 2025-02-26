@@ -1,12 +1,15 @@
-## Steps
-
+## BASIC TRIE 
 1. Write words in the file 'input.txt' that you want in trie.
 
 2. Each word should in a new line.
 
 3. Run 'ADS_INNOVATIVE.ipynb' and output will be displayed as a png.
 
-### WEIGHT_PREFIX_TREE:
+### Screenshots
+
+![IMG1](output.png)
+
+### TRIE WITH WEIGHTS
 
 - Add input words and its weight as shown in code.
 
@@ -14,6 +17,4 @@
 
 - Enter your prefix and total weights containing that prefix will be displayed.
 
-## Screenshots
 
-![IMG1](output.png)
